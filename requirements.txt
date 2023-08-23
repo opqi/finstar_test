@@ -1,0 +1,8 @@
+notebook
+loguru
+pandas
+sqlalchemy
+psycopg2
+openpyxl
+matplotlib
+sklearn
